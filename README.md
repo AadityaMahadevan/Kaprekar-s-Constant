@@ -1,11 +1,12 @@
 Kaprekar's-Constant
 
-A short Python program highlighting Kaprekar's Constant (6174)
+A short Python program highlighting Kaprekar's Constant (6174).
+
 The speciality of this number is that when you take a random 4 digit number constituting 
 of atleast 2 distinct digits with each repeating a maximum of 2 times, the difference of the
 arrangement of the digits of the number in descending order and in ascending order eventually converges to 6174
 
-This program takes a 4 digit number input and shows the ouput leading to the Kaprekar's Constant
+This program takes a 4 digit number input and shows the output leading to the Kaprekar's Constant
 
 ![image](https://user-images.githubusercontent.com/57636109/132121800-1a6210ff-436b-46b1-967e-8f2cf57453f5.png)
 
